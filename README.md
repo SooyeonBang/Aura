@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# The Aura project 
+This project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://sooyeonbang.github.io/Aura/
 
-## Available Scripts
 
 In the project directory, you can run:
 
