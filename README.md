@@ -16,9 +16,14 @@ React.js
 -css
 -Html
 
-Python : https://github.com/SooyeonBang/create-image-model.git
+Python 
 -gradio
 -keras_cv model
+
+github: https://github.com/SooyeonBang/create-image-model.git<br>
+colab:https://colab.research.google.com/drive/1lsx9V_OFGiHwX2DdbbOrHS63fxYLx8R1?usp=sharing
+
+hugging face deploy :https://huggingface.co/spaces/splendid/image-generate
 
 
 
