@@ -28,7 +28,6 @@ stable-diffision 활용하여 생성
 
 
 
-
 ### Deployment
 The project can be shown at:
 https://sooyeonbang.github.io/Aura/
