@@ -9,7 +9,23 @@
  
 ### Code
 
+사용한 라이브러리 및 기능
+
 React.js
+-style-component
+-css
+-usestate
+
+이미지 생성기
+Python
+https://github.com/SooyeonBang/create-image-model.git
+-gradio
+-keras_cv model
+
+이미지
+본인 포트폴리오 작업 중 일부
+stable-diffision 활용하여 생성 
+
 
 
 
@@ -18,11 +34,6 @@ The project can be shown at:
 https://sooyeonbang.github.io/Aura/
 
 
-In the project directory, you can run:
 
 
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
