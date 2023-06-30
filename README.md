@@ -22,13 +22,11 @@ Python
 
 github: https://github.com/SooyeonBang/create-image-model.git<br>
 colab:https://colab.research.google.com/drive/1lsx9V_OFGiHwX2DdbbOrHS63fxYLx8R1?usp=sharing <br>
-
 hugging face deploy :https://huggingface.co/spaces/splendid/image-generate<br>
 
 
-
 ### Deployment
-The project can be shown at:
+The project can be shown at: 웹사이트 베포 링크입니다. 
 https://sooyeonbang.github.io/Aura/
 
 ### Demo 
