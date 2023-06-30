@@ -1,0 +1,30 @@
+
+@font-face {
+	font-family: "googleMontserrat";
+	src: url(./fonts/Montserrat/static/Montserrat-Regular.ttf);
+
+  font-family: "googleMontserratbold";
+	src: url(./fonts/Montserrat/static/Montserrat-Bold.ttf);
+
+
+
+}
+
+:root {
+	--font-googleMontserrat: "googleMontserrat";
+  --font-googleMontserratbold: "googleMontserratbold";
+	
+}
+
+
+body{
+    width:100vw;
+    height:100vh;
+}
+
+body,
+div{
+    box-sizing:boder-box;
+    margin: 0;
+    padding:0;
+}
