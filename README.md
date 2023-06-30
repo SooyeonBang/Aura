@@ -26,8 +26,9 @@ Python : https://github.com/SooyeonBang/create-image-model.git
 The project can be shown at:
 https://sooyeonbang.github.io/Aura/
 
-### Deployment
+### Demo 
 https://youtu.be/SuOVvA-gbvE
+스크린 캡쳐에 나오지는 않았지만, " + "버튼을 누르면 파일시스템이 열려 내 컴퓨터의 이미지를 선택할 수 있습니다.
 
 
 
