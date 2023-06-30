@@ -21,9 +21,9 @@ Python
 -keras_cv model
 
 github: https://github.com/SooyeonBang/create-image-model.git<br>
-colab:https://colab.research.google.com/drive/1lsx9V_OFGiHwX2DdbbOrHS63fxYLx8R1?usp=sharing
+colab:https://colab.research.google.com/drive/1lsx9V_OFGiHwX2DdbbOrHS63fxYLx8R1?usp=sharing <br>
 
-hugging face deploy :https://huggingface.co/spaces/splendid/image-generate
+hugging face deploy :https://huggingface.co/spaces/splendid/image-generate<br>
 
 
 
